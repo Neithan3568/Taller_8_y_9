@@ -1,0 +1,42 @@
+
+.centerD{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divStile{
+    background: white;
+    padding: 3%;
+    border-radius: 25px;
+    margin:3% 30%;
+    filter:drop-shadow(10px 20px 4px rgb(130, 130, 130));
+}
+body{
+    background-color: rgb(229, 229, 229);
+    display: flex;
+}
+.btn{
+    margin-top: 20px;
+    background-color: rgb(15, 207, 1);
+    color: white;
+    outline: solid 1px rgb(1, 207, 35);
+    outline-style: auto;
+}
+.container {
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    margin-top: 20px;
+}
+footer{
+    border-top: solid black 1px;
+    padding: 2%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color: rgb(0, 13, 84);
+}
